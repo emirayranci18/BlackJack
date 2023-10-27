@@ -1,0 +1,7 @@
+﻿  Reading Qt configuration (D:/Emir/QT/6.5.2/msvc2019_64/bin/qmake)
+  Qt21Deneme.cpp
+  main.cpp
+D:\Projects\Visual\Qt21Deneme\Qt21Deneme\Qt21Deneme.cpp(261): warning C4715: 'Qt21Deneme::RandomNumber': tüm denetim yolları değer döndürmez
+  qrc_Qt21Deneme.cpp
+  moc_Qt21Deneme.cpp
+  Qt21Deneme.vcxproj -> D:\Projects\Visual\Qt21Deneme\x64\Release\Qt21Deneme.exe
