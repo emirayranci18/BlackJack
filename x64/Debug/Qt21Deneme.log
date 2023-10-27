@@ -1,0 +1,3 @@
+﻿  Qt21Deneme.cpp
+D:\Projects\Visual\Qt21Deneme\Qt21Deneme\Qt21Deneme.cpp(265): warning C4715: 'Qt21Deneme::RandomNumber': tüm denetim yolları değer döndürmez
+  Qt21Deneme.vcxproj -> D:\Projects\Visual\Qt21Deneme\x64\Debug\Qt21Deneme.exe
